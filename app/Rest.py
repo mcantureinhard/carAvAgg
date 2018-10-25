@@ -50,7 +50,7 @@ def carsAgg():
             },
             {
                 "company"           : "Avis",
-                "car"               : "bmw_z3_2015",
+                "car"               : "bmw_Z3_2015",
                 "fuel_options"      : ["return-empty"],
                 "insurance_options" : ["full-with-deductible", "full-without-deductibe"],
                 "base_price_eur"    : 143,
